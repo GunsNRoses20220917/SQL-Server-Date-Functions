@@ -13,9 +13,9 @@ This tutorial will help to understand some of the most used Date and Time functi
 ![image](https://user-images.githubusercontent.com/122970222/213415402-3f834b6c-8270-4910-aa83-fb1cf7205b85.png)
 
 # SQL Server CURRENT_TIMESTAMP, GETDATE() and GETUTCDATE() Functions
-CURRENT_TIMESTAMP - returns the date and time of the machine the SQL Server is running on
-GETDATE() - returns the date and time of the machine the SQL Server is running on
-GETUTCDATE() - returns the date and time of the machine the SQL Server is running on as UTC
+1.CURRENT_TIMESTAMP - returns the date and time of the machine the SQL Server is running on
+2.GETDATE() - returns the date and time of the machine the SQL Server is running on
+3.GETUTCDATE() - returns the date and time of the machine the SQL Server is running on as UTC
 
 ![image](https://user-images.githubusercontent.com/122970222/213415772-e0c72c7b-e52d-475a-92a4-1eb5ace53b9b.png)
 
