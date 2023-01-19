@@ -6,9 +6,9 @@ SQL Server has varities of Date and Time functions which are widely used for Dat
 This tutorial will help to understand some of the most used Date and Time functions.
 
 # SQL Server SYSDATETIME, SYSDATETIMEOFFSET and SYSUTCDATETIME Functions:
-SYSDATETIME – returns the date and time of the machine the SQL Server is running on
-SYSDATETIMEOFFSET – returns the date and time of the machine the SQL Server is running on plus the offset from UTC
-SYSUTCDATETIME - returns the date and time of the machine the SQL Server is running on as UTC
+1.SYSDATETIME – returns the date and time of the machine the SQL Server is running on
+2.SYSDATETIMEOFFSET – returns the date and time of the machine the SQL Server is running on plus the offset from UTC
+3.SYSUTCDATETIME - returns the date and time of the machine the SQL Server is running on as UTC
 
 ![image](https://user-images.githubusercontent.com/122970222/213415402-3f834b6c-8270-4910-aa83-fb1cf7205b85.png)
 
