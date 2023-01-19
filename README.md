@@ -19,6 +19,7 @@ This tutorial will help to understand some of the most used Date and Time functi
 
 ![image](https://user-images.githubusercontent.com/122970222/213415772-e0c72c7b-e52d-475a-92a4-1eb5ace53b9b.png)
 
+# SQL Server DATENAME Function
 SELECT DATENAME(YEAR, GETDATE())        AS 'Year';        
 SELECT DATENAME(QUARTER, GETDATE())     AS 'Quarter';     
 SELECT DATENAME(MONTH, GETDATE())       AS 'Month Name';       
